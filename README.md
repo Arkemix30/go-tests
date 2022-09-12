@@ -24,7 +24,7 @@ $ export PATH="$HOME/.poetry/bin:$PATH"
 Clone the repository
 
   ```bash
-  $ git clone https://github.com/Arkemix30/school-payment-management-backend
+  $ git clone https://github.com/Arkemix30/go-tests.git
   ```
 
 Enter into project's root folder and run:
@@ -49,3 +49,5 @@ It should create a `.venv` folder, generating a virtual enviroment with all proj
   ```bash
   $ python main.py
   ```
+
+* Need to rename the `sample.env` file to `.env` and also change each environment variable
